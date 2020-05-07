@@ -1,0 +1,252 @@
+Maç 1
+Bunyamin Ergen,Mete Rıza Nemlioğlu
+Servet Daşdemir,Oğuz Zerman
+Gonca Kucukakin,Doğan Can Karataş
+Uğur Arıkan,Övünç Balcı
+Altan Kuntay,Selçuk Mola
+Uygar Tavşanoğlu,Selçuk Toker
+Mehmethan Coşkun,Cafer Yazıcı
+Alpay Cemre Çam,Alper Sulak
+Çılga İşcan,Gündaş Alaşahan
+Çınar Çetin,Ayşe TUGAN
+Berkant Aras,Büke Tuncel
+Maç 2
+Oğuz Zerman,Mete Rıza Nemlioğlu
+Berkant Aras,Bunyamin Ergen
+Servet Daşdemir,Doğan Can Karataş
+Gonca Kucukakin,Övünç Balcı
+Uğur Arıkan,Selçuk Mola
+Altan Kuntay,Selçuk Toker
+Uygar Tavşanoğlu,Cafer Yazıcı
+Mehmethan Coşkun,Alper Sulak
+Alpay Cemre Çam,Gündaş Alaşahan
+Çılga İşcan,Ayşe TUGAN
+Çınar Çetin,Büke Tuncel
+Maç 3
+Doğan Can Karataş,Mete Rıza Nemlioğlu
+Oğuz Zerman,Bunyamin Ergen
+Servet Daşdemir,Övünç Balcı
+Gonca Kucukakin,Selçuk Mola
+Uğur Arıkan,Selçuk Toker
+Altan Kuntay,Cafer Yazıcı
+Uygar Tavşanoğlu,Alper Sulak
+Mehmethan Coşkun,Gündaş Alaşahan
+Alpay Cemre Çam,Ayşe TUGAN
+Çılga İşcan,Büke Tuncel
+Berkant Aras,Çınar Çetin
+Maç 4
+Övünç Balcı,Mete Rıza Nemlioğlu
+Doğan Can Karataş,Bunyamin Ergen
+Berkant Aras,Oğuz Zerman
+Servet Daşdemir,Selçuk Mola
+Gonca Kucukakin,Selçuk Toker
+Uğur Arıkan,Cafer Yazıcı
+Altan Kuntay,Alper Sulak
+Uygar Tavşanoğlu,Gündaş Alaşahan
+Mehmethan Coşkun,Ayşe TUGAN
+Alpay Cemre Çam,Büke Tuncel
+Çılga İşcan,Çınar Çetin
+Maç 5
+Selçuk Mola,Mete Rıza Nemlioğlu
+Övünç Balcı,Bunyamin Ergen
+Doğan Can Karataş,Oğuz Zerman
+Servet Daşdemir,Selçuk Toker
+Gonca Kucukakin,Cafer Yazıcı
+Uğur Arıkan,Alper Sulak
+Altan Kuntay,Gündaş Alaşahan
+Uygar Tavşanoğlu,Ayşe TUGAN
+Mehmethan Coşkun,Büke Tuncel
+Alpay Cemre Çam,Çınar Çetin
+Berkant Aras,Çılga İşcan
+Maç 6
+Selçuk Toker,Mete Rıza Nemlioğlu
+Selçuk Mola,Bunyamin Ergen
+Övünç Balcı,Oğuz Zerman
+Berkant Aras,Doğan Can Karataş
+Servet Daşdemir,Cafer Yazıcı
+Gonca Kucukakin,Alper Sulak
+Uğur Arıkan,Gündaş Alaşahan
+Altan Kuntay,Ayşe TUGAN
+Uygar Tavşanoğlu,Büke Tuncel
+Mehmethan Coşkun,Çınar Çetin
+Alpay Cemre Çam,Çılga İşcan
+Maç 7
+Cafer Yazıcı,Mete Rıza Nemlioğlu
+Selçuk Toker,Bunyamin Ergen
+Selçuk Mola,Oğuz Zerman
+Övünç Balcı,Doğan Can Karataş
+Servet Daşdemir,Alper Sulak
+Gonca Kucukakin,Gündaş Alaşahan
+Uğur Arıkan,Ayşe TUGAN
+Altan Kuntay,Büke Tuncel
+Uygar Tavşanoğlu,Çınar Çetin
+Mehmethan Coşkun,Çılga İşcan
+Berkant Aras,Alpay Cemre Çam
+Maç 8
+Alper Sulak,Mete Rıza Nemlioğlu
+Cafer Yazıcı,Bunyamin Ergen
+Selçuk Toker,Oğuz Zerman
+Selçuk Mola,Doğan Can Karataş
+Berkant Aras,Övünç Balcı
+Servet Daşdemir,Gündaş Alaşahan
+Gonca Kucukakin,Ayşe TUGAN
+Uğur Arıkan,Büke Tuncel
+Altan Kuntay,Çınar Çetin
+Uygar Tavşanoğlu,Çılga İşcan
+Mehmethan Coşkun,Alpay Cemre Çam
+Maç 9
+Gündaş Alaşahan,Mete Rıza Nemlioğlu
+Alper Sulak,Bunyamin Ergen
+Cafer Yazıcı,Oğuz Zerman
+Selçuk Toker,Doğan Can Karataş
+Selçuk Mola,Övünç Balcı
+Servet Daşdemir,Ayşe TUGAN
+Gonca Kucukakin,Büke Tuncel
+Uğur Arıkan,Çınar Çetin
+Altan Kuntay,Çılga İşcan
+Uygar Tavşanoğlu,Alpay Cemre Çam
+Berkant Aras,Mehmethan Coşkun
+Maç 10
+Ayşe TUGAN,Mete Rıza Nemlioğlu
+Gündaş Alaşahan,Bunyamin Ergen
+Alper Sulak,Oğuz Zerman
+Cafer Yazıcı,Doğan Can Karataş
+Selçuk Toker,Övünç Balcı
+Berkant Aras,Selçuk Mola
+Servet Daşdemir,Büke Tuncel
+Gonca Kucukakin,Çınar Çetin
+Uğur Arıkan,Çılga İşcan
+Altan Kuntay,Alpay Cemre Çam
+Uygar Tavşanoğlu,Mehmethan Coşkun
+Maç 11
+Büke Tuncel,Mete Rıza Nemlioğlu
+Ayşe TUGAN,Bunyamin Ergen
+Gündaş Alaşahan,Oğuz Zerman
+Alper Sulak,Doğan Can Karataş
+Cafer Yazıcı,Övünç Balcı
+Selçuk Toker,Selçuk Mola
+Servet Daşdemir,Çınar Çetin
+Gonca Kucukakin,Çılga İşcan
+Uğur Arıkan,Alpay Cemre Çam
+Altan Kuntay,Mehmethan Coşkun
+Berkant Aras,Uygar Tavşanoğlu
+Maç 12
+Çınar Çetin,Mete Rıza Nemlioğlu
+Büke Tuncel,Bunyamin Ergen
+Ayşe TUGAN,Oğuz Zerman
+Gündaş Alaşahan,Doğan Can Karataş
+Alper Sulak,Övünç Balcı
+Cafer Yazıcı,Selçuk Mola
+Berkant Aras,Selçuk Toker
+Servet Daşdemir,Çılga İşcan
+Gonca Kucukakin,Alpay Cemre Çam
+Uğur Arıkan,Mehmethan Coşkun
+Altan Kuntay,Uygar Tavşanoğlu
+Maç 13
+Çılga İşcan,Mete Rıza Nemlioğlu
+Çınar Çetin,Bunyamin Ergen
+Büke Tuncel,Oğuz Zerman
+Ayşe TUGAN,Doğan Can Karataş
+Gündaş Alaşahan,Övünç Balcı
+Alper Sulak,Selçuk Mola
+Cafer Yazıcı,Selçuk Toker
+Servet Daşdemir,Alpay Cemre Çam
+Gonca Kucukakin,Mehmethan Coşkun
+Uğur Arıkan,Uygar Tavşanoğlu
+Berkant Aras,Altan Kuntay
+Maç 14
+Alpay Cemre Çam,Mete Rıza Nemlioğlu
+Çılga İşcan,Bunyamin Ergen
+Çınar Çetin,Oğuz Zerman
+Büke Tuncel,Doğan Can Karataş
+Ayşe TUGAN,Övünç Balcı
+Gündaş Alaşahan,Selçuk Mola
+Alper Sulak,Selçuk Toker
+Berkant Aras,Cafer Yazıcı
+Servet Daşdemir,Mehmethan Coşkun
+Gonca Kucukakin,Uygar Tavşanoğlu
+Uğur Arıkan,Altan Kuntay
+Maç 15
+Mehmethan Coşkun,Mete Rıza Nemlioğlu
+Alpay Cemre Çam,Bunyamin Ergen
+Çılga İşcan,Oğuz Zerman
+Çınar Çetin,Doğan Can Karataş
+Büke Tuncel,Övünç Balcı
+Ayşe TUGAN,Selçuk Mola
+Gündaş Alaşahan,Selçuk Toker
+Alper Sulak,Cafer Yazıcı
+Servet Daşdemir,Uygar Tavşanoğlu
+Gonca Kucukakin,Altan Kuntay
+Berkant Aras,Uğur Arıkan
+Maç 16
+Uygar Tavşanoğlu,Mete Rıza Nemlioğlu
+Mehmethan Coşkun,Bunyamin Ergen
+Alpay Cemre Çam,Oğuz Zerman
+Çılga İşcan,Doğan Can Karataş
+Çınar Çetin,Övünç Balcı
+Büke Tuncel,Selçuk Mola
+Ayşe TUGAN,Selçuk Toker
+Gündaş Alaşahan,Cafer Yazıcı
+Berkant Aras,Alper Sulak
+Servet Daşdemir,Altan Kuntay
+Gonca Kucukakin,Uğur Arıkan
+Maç 17
+Altan Kuntay,Mete Rıza Nemlioğlu
+Uygar Tavşanoğlu,Bunyamin Ergen
+Mehmethan Coşkun,Oğuz Zerman
+Alpay Cemre Çam,Doğan Can Karataş
+Çılga İşcan,Övünç Balcı
+Çınar Çetin,Selçuk Mola
+Büke Tuncel,Selçuk Toker
+Ayşe TUGAN,Cafer Yazıcı
+Gündaş Alaşahan,Alper Sulak
+Servet Daşdemir,Uğur Arıkan
+Berkant Aras,Gonca Kucukakin
+Maç 18
+Uğur Arıkan,Mete Rıza Nemlioğlu
+Altan Kuntay,Bunyamin Ergen
+Uygar Tavşanoğlu,Oğuz Zerman
+Mehmethan Coşkun,Doğan Can Karataş
+Alpay Cemre Çam,Övünç Balcı
+Çılga İşcan,Selçuk Mola
+Çınar Çetin,Selçuk Toker
+Büke Tuncel,Cafer Yazıcı
+Ayşe TUGAN,Alper Sulak
+Berkant Aras,Gündaş Alaşahan
+Servet Daşdemir,Gonca Kucukakin
+Maç 19
+Gonca Kucukakin,Mete Rıza Nemlioğlu
+Uğur Arıkan,Bunyamin Ergen
+Altan Kuntay,Oğuz Zerman
+Uygar Tavşanoğlu,Doğan Can Karataş
+Mehmethan Coşkun,Övünç Balcı
+Alpay Cemre Çam,Selçuk Mola
+Çılga İşcan,Selçuk Toker
+Çınar Çetin,Cafer Yazıcı
+Büke Tuncel,Alper Sulak
+Ayşe TUGAN,Gündaş Alaşahan
+Berkant Aras,Servet Daşdemir
+Maç 20
+Servet Daşdemir,Mete Rıza Nemlioğlu
+Gonca Kucukakin,Bunyamin Ergen
+Uğur Arıkan,Oğuz Zerman
+Altan Kuntay,Doğan Can Karataş
+Uygar Tavşanoğlu,Övünç Balcı
+Mehmethan Coşkun,Selçuk Mola
+Alpay Cemre Çam,Selçuk Toker
+Çılga İşcan,Cafer Yazıcı
+Çınar Çetin,Alper Sulak
+Büke Tuncel,Gündaş Alaşahan
+Berkant Aras,Ayşe TUGAN
+Maç 21
+Berkant Aras,Mete Rıza Nemlioğlu
+Servet Daşdemir,Bunyamin Ergen
+Gonca Kucukakin,Oğuz Zerman
+Uğur Arıkan,Doğan Can Karataş
+Altan Kuntay,Övünç Balcı
+Uygar Tavşanoğlu,Selçuk Mola
+Mehmethan Coşkun,Selçuk Toker
+Alpay Cemre Çam,Cafer Yazıcı
+Çılga İşcan,Alper Sulak
+Çınar Çetin,Gündaş Alaşahan
+Büke Tuncel,Ayşe TUGAN

@@ -1,0 +1,44 @@
+Ahmet Kemal Ökmen,albiatros,15413816,Çanakkale,Türkiye Go Oyuncuları Derneği
+Ali Kulubecioğlu,alii,19250198,Hatay,–
+Ali Yunus Emre Özköse,yunusemre,19549728,Ankara,–
+Alpay Cemre Çam,Tenebris,18225273,İzmir,İzmir Go Oyuncuları Derneği
+Alper Sulak,alper,18701034,Ankara,–
+Altan Kuntay,elohimmeth,15025307,Manisa,Türkiye Go Oyuncuları Derneği
+Ayşe TUGAN,Aytu,18633934,Karaman,Diğer
+Berkant Aras,berkant,16825534,Ankara,Türkiye Go Oyuncuları Derneği
+Bunyamin Ergen,BE,18486952,İstanbul,Diğer
+Büke Tuncel,RkC4,16537950,Girne,Diğer
+Cafer Yazıcı,Dervish,18698031,Rize,Diğer
+Cihan Mert Deveden,CihanMert,19301183,İzmir,İzmir Go Oyuncuları Derneği
+Çağatay Tavşanoğlu,eko,13650659,Ankara,Türkiye Go Oyuncuları Derneği
+Çılga İşcan,anneliisa,19349957,İzmir,İzmir Go Oyuncuları Derneği
+Çınar Çetin,PRO9,19237394,İzmir,İzmir Go Oyuncuları Derneği
+Doğan Can Karataş,Avernus,18550653,Ankara,–
+Doğukan Bora Alay,Dogukan,19501713,Trabzon,Ankara Go Oyuncuları Derneği
+Elif Sarı,sarielif66,19533514,İzmir,–));
+Ertuğ Akkol,ERTUG,10633920,İstanbul,İstanbul Go Oyuncuları Derneği
+Etkin Özgan,keycard,19513340,İstanbul,–
+Firat Dulger,fahrettin,15398658,Bruksel,–
+Gonca Kucukakin,aviver,18374950,Townsville,Diğer
+Gündaş Alaşahan,gundas,-1,İzmir,–
+Hasan Hüseyin Çiçek,Hzrbey,-1,–,–
+Mehmethan Coşkun,mehmethan,-1,–,–
+Mert Bağcık,Warhead,17462159,Aydın,–
+Merve Gürcan,evrem,16013536,İstanbul,İstanbul Go Oyuncuları Derneği
+Mete Rıza Nemlioğlu,moriago,19301381,İstanbul,İstanbul Go Oyuncuları Derneği
+Mustafa Talak,Talak,16998168,Antalya,Eskişehir Go Oyuncuları Derneği
+Nevriye Çerçioğlu,nevriye,-1,Ankara,–
+Ogün Gökpınar,ogun,16750371,İstanbul,–
+Oğulkan Bir,Atababa,19086463,Ankara,Ankara Go Oyuncuları Derneği
+Oğuz Zerman,zerman,19537716,Ankara,–
+Okan Kaynak,okanyak,16050540,Denizli,Türkiye Go Oyuncuları Derneği
+Orhan Can Acar,Askonsa,15649810,İstanbul,İstanbul Go Oyuncuları Derneği
+Övünç Balcı,Comet,16533209,İzmir,–
+Özlem Ersoy,Tuxedocat,18201348,İzmir,İzmir Go Oyuncuları Derneği
+Remzi öz,remzioz,19001037,İstanbul,İstanbul Go Oyuncuları Derneği
+Selçuk Mola,siyahbeyaz,16937162,Antalya,–
+Selçuk Toker,Karga,18450784,Eskişehir,Eskişehir Go Oyuncuları Derneği
+Servet Daşdemir,serbetoo,17637367,İstanbul,İstanbul Go Oyuncuları Derneği
+Uğur Arıkan,tcorc,17374423,Ankara,Türkiye Go Oyuncuları Derneği
+Uygar Tavşanoğlu,Strang3,17598350,Ankara,Diğer
+Yetkin Eser,addict,16598945,İstanbul,İstanbul Go Oyuncuları Derneği

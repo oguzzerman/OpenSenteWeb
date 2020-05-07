@@ -1,0 +1,350 @@
+Maç 1
+Salih Özkan Dursun,Ecem Layra Görk
+Remzi Öz,Çılga İşcan
+Ferhat Barış,Cafer Yazıcı
+Seçil Yeşilırmak,Alpay Cemre Çam
+Ege Köse,Övünç Balcı
+Merve Gürcan,Mert Aydoğdu
+Gonca Kucukakin,Çağatay Tavşanoğlu
+Leyla Kaşıkci,Fatih Kalayoğlu
+Doğukan Bora Alay,Dogac Kose
+Alper Sulak,Ercan Artukoğlu
+Etkin Özgan,Berkant Aras
+Alaittin Kırtışoğlu,Mert Bağcık
+Arif Aydın,Cihan Tay
+Maç 2
+Çılga İşcan,Ecem Layra Görk
+Arif Aydın,Salih Özkan Dursun
+Remzi Öz,Cafer Yazıcı
+Ferhat Barış,Alpay Cemre Çam
+Seçil Yeşilırmak,Övünç Balcı
+Ege Köse,Mert Aydoğdu
+Merve Gürcan,Çağatay Tavşanoğlu
+Gonca Kucukakin,Fatih Kalayoğlu
+Leyla Kaşıkci,Dogac Kose
+Doğukan Bora Alay,Ercan Artukoğlu
+Alper Sulak,Berkant Aras
+Etkin Özgan,Mert Bağcık
+Alaittin Kırtışoğlu,Cihan Tay
+Maç 3
+Cafer Yazıcı,Ecem Layra Görk
+Çılga İşcan,Salih Özkan Dursun
+Remzi Öz,Alpay Cemre Çam
+Ferhat Barış,Övünç Balcı
+Seçil Yeşilırmak,Mert Aydoğdu
+Ege Köse,Çağatay Tavşanoğlu
+Merve Gürcan,Fatih Kalayoğlu
+Gonca Kucukakin,Dogac Kose
+Leyla Kaşıkci,Ercan Artukoğlu
+Doğukan Bora Alay,Berkant Aras
+Alper Sulak,Mert Bağcık
+Etkin Özgan,Cihan Tay
+Arif Aydın,Alaittin Kırtışoğlu
+Maç 4
+Alpay Cemre Çam,Ecem Layra Görk
+Cafer Yazıcı,Salih Özkan Dursun
+Arif Aydın,Çılga İşcan
+Remzi Öz,Övünç Balcı
+Ferhat Barış,Mert Aydoğdu
+Seçil Yeşilırmak,Çağatay Tavşanoğlu
+Ege Köse,Fatih Kalayoğlu
+Merve Gürcan,Dogac Kose
+Gonca Kucukakin,Ercan Artukoğlu
+Leyla Kaşıkci,Berkant Aras
+Doğukan Bora Alay,Mert Bağcık
+Alper Sulak,Cihan Tay
+Etkin Özgan,Alaittin Kırtışoğlu
+Maç 5
+Övünç Balcı,Ecem Layra Görk
+Alpay Cemre Çam,Salih Özkan Dursun
+Cafer Yazıcı,Çılga İşcan
+Remzi Öz,Mert Aydoğdu
+Ferhat Barış,Çağatay Tavşanoğlu
+Seçil Yeşilırmak,Fatih Kalayoğlu
+Ege Köse,Dogac Kose
+Merve Gürcan,Ercan Artukoğlu
+Gonca Kucukakin,Berkant Aras
+Leyla Kaşıkci,Mert Bağcık
+Doğukan Bora Alay,Cihan Tay
+Alper Sulak,Alaittin Kırtışoğlu
+Arif Aydın,Etkin Özgan
+Maç 6
+Mert Aydoğdu,Ecem Layra Görk
+Övünç Balcı,Salih Özkan Dursun
+Alpay Cemre Çam,Çılga İşcan
+Arif Aydın,Cafer Yazıcı
+Remzi Öz,Çağatay Tavşanoğlu
+Ferhat Barış,Fatih Kalayoğlu
+Seçil Yeşilırmak,Dogac Kose
+Ege Köse,Ercan Artukoğlu
+Merve Gürcan,Berkant Aras
+Gonca Kucukakin,Mert Bağcık
+Leyla Kaşıkci,Cihan Tay
+Doğukan Bora Alay,Alaittin Kırtışoğlu
+Alper Sulak,Etkin Özgan
+Maç 7
+Çağatay Tavşanoğlu,Ecem Layra Görk
+Mert Aydoğdu,Salih Özkan Dursun
+Övünç Balcı,Çılga İşcan
+Alpay Cemre Çam,Cafer Yazıcı
+Remzi Öz,Fatih Kalayoğlu
+Ferhat Barış,Dogac Kose
+Seçil Yeşilırmak,Ercan Artukoğlu
+Ege Köse,Berkant Aras
+Merve Gürcan,Mert Bağcık
+Gonca Kucukakin,Cihan Tay
+Leyla Kaşıkci,Alaittin Kırtışoğlu
+Doğukan Bora Alay,Etkin Özgan
+Arif Aydın,Alper Sulak
+Maç 8
+Fatih Kalayoğlu,Ecem Layra Görk
+Çağatay Tavşanoğlu,Salih Özkan Dursun
+Mert Aydoğdu,Çılga İşcan
+Övünç Balcı,Cafer Yazıcı
+Arif Aydın,Alpay Cemre Çam
+Remzi Öz,Dogac Kose
+Ferhat Barış,Ercan Artukoğlu
+Seçil Yeşilırmak,Berkant Aras
+Ege Köse,Mert Bağcık
+Merve Gürcan,Cihan Tay
+Gonca Kucukakin,Alaittin Kırtışoğlu
+Leyla Kaşıkci,Etkin Özgan
+Doğukan Bora Alay,Alper Sulak
+Maç 9
+Dogac Kose,Ecem Layra Görk
+Fatih Kalayoğlu,Salih Özkan Dursun
+Çağatay Tavşanoğlu,Çılga İşcan
+Mert Aydoğdu,Cafer Yazıcı
+Övünç Balcı,Alpay Cemre Çam
+Remzi Öz,Ercan Artukoğlu
+Ferhat Barış,Berkant Aras
+Seçil Yeşilırmak,Mert Bağcık
+Ege Köse,Cihan Tay
+Merve Gürcan,Alaittin Kırtışoğlu
+Gonca Kucukakin,Etkin Özgan
+Leyla Kaşıkci,Alper Sulak
+Arif Aydın,Doğukan Bora Alay
+Maç 10
+Ercan Artukoğlu,Ecem Layra Görk
+Dogac Kose,Salih Özkan Dursun
+Fatih Kalayoğlu,Çılga İşcan
+Çağatay Tavşanoğlu,Cafer Yazıcı
+Mert Aydoğdu,Alpay Cemre Çam
+Arif Aydın,Övünç Balcı
+Remzi Öz,Berkant Aras
+Ferhat Barış,Mert Bağcık
+Seçil Yeşilırmak,Cihan Tay
+Ege Köse,Alaittin Kırtışoğlu
+Merve Gürcan,Etkin Özgan
+Gonca Kucukakin,Alper Sulak
+Leyla Kaşıkci,Doğukan Bora Alay
+Maç 11
+Berkant Aras,Ecem Layra Görk
+Ercan Artukoğlu,Salih Özkan Dursun
+Dogac Kose,Çılga İşcan
+Fatih Kalayoğlu,Cafer Yazıcı
+Çağatay Tavşanoğlu,Alpay Cemre Çam
+Mert Aydoğdu,Övünç Balcı
+Remzi Öz,Mert Bağcık
+Ferhat Barış,Cihan Tay
+Seçil Yeşilırmak,Alaittin Kırtışoğlu
+Ege Köse,Etkin Özgan
+Merve Gürcan,Alper Sulak
+Gonca Kucukakin,Doğukan Bora Alay
+Arif Aydın,Leyla Kaşıkci
+Maç 12
+Mert Bağcık,Ecem Layra Görk
+Berkant Aras,Salih Özkan Dursun
+Ercan Artukoğlu,Çılga İşcan
+Dogac Kose,Cafer Yazıcı
+Fatih Kalayoğlu,Alpay Cemre Çam
+Çağatay Tavşanoğlu,Övünç Balcı
+Arif Aydın,Mert Aydoğdu
+Remzi Öz,Cihan Tay
+Ferhat Barış,Alaittin Kırtışoğlu
+Seçil Yeşilırmak,Etkin Özgan
+Ege Köse,Alper Sulak
+Merve Gürcan,Doğukan Bora Alay
+Gonca Kucukakin,Leyla Kaşıkci
+Maç 13
+Cihan Tay,Ecem Layra Görk
+Mert Bağcık,Salih Özkan Dursun
+Berkant Aras,Çılga İşcan
+Ercan Artukoğlu,Cafer Yazıcı
+Dogac Kose,Alpay Cemre Çam
+Fatih Kalayoğlu,Övünç Balcı
+Çağatay Tavşanoğlu,Mert Aydoğdu
+Remzi Öz,Alaittin Kırtışoğlu
+Ferhat Barış,Etkin Özgan
+Seçil Yeşilırmak,Alper Sulak
+Ege Köse,Doğukan Bora Alay
+Merve Gürcan,Leyla Kaşıkci
+Arif Aydın,Gonca Kucukakin
+Maç 14
+Alaittin Kırtışoğlu,Ecem Layra Görk
+Cihan Tay,Salih Özkan Dursun
+Mert Bağcık,Çılga İşcan
+Berkant Aras,Cafer Yazıcı
+Ercan Artukoğlu,Alpay Cemre Çam
+Dogac Kose,Övünç Balcı
+Fatih Kalayoğlu,Mert Aydoğdu
+Arif Aydın,Çağatay Tavşanoğlu
+Remzi Öz,Etkin Özgan
+Ferhat Barış,Alper Sulak
+Seçil Yeşilırmak,Doğukan Bora Alay
+Ege Köse,Leyla Kaşıkci
+Merve Gürcan,Gonca Kucukakin
+Maç 15
+Etkin Özgan,Ecem Layra Görk
+Alaittin Kırtışoğlu,Salih Özkan Dursun
+Cihan Tay,Çılga İşcan
+Mert Bağcık,Cafer Yazıcı
+Berkant Aras,Alpay Cemre Çam
+Ercan Artukoğlu,Övünç Balcı
+Dogac Kose,Mert Aydoğdu
+Fatih Kalayoğlu,Çağatay Tavşanoğlu
+Remzi Öz,Alper Sulak
+Ferhat Barış,Doğukan Bora Alay
+Seçil Yeşilırmak,Leyla Kaşıkci
+Ege Köse,Gonca Kucukakin
+Arif Aydın,Merve Gürcan
+Maç 16
+Alper Sulak,Ecem Layra Görk
+Etkin Özgan,Salih Özkan Dursun
+Alaittin Kırtışoğlu,Çılga İşcan
+Cihan Tay,Cafer Yazıcı
+Mert Bağcık,Alpay Cemre Çam
+Berkant Aras,Övünç Balcı
+Ercan Artukoğlu,Mert Aydoğdu
+Dogac Kose,Çağatay Tavşanoğlu
+Arif Aydın,Fatih Kalayoğlu
+Remzi Öz,Doğukan Bora Alay
+Ferhat Barış,Leyla Kaşıkci
+Seçil Yeşilırmak,Gonca Kucukakin
+Ege Köse,Merve Gürcan
+Maç 17
+Doğukan Bora Alay,Ecem Layra Görk
+Alper Sulak,Salih Özkan Dursun
+Etkin Özgan,Çılga İşcan
+Alaittin Kırtışoğlu,Cafer Yazıcı
+Cihan Tay,Alpay Cemre Çam
+Mert Bağcık,Övünç Balcı
+Berkant Aras,Mert Aydoğdu
+Ercan Artukoğlu,Çağatay Tavşanoğlu
+Dogac Kose,Fatih Kalayoğlu
+Remzi Öz,Leyla Kaşıkci
+Ferhat Barış,Gonca Kucukakin
+Seçil Yeşilırmak,Merve Gürcan
+Arif Aydın,Ege Köse
+Maç 18
+Leyla Kaşıkci,Ecem Layra Görk
+Doğukan Bora Alay,Salih Özkan Dursun
+Alper Sulak,Çılga İşcan
+Etkin Özgan,Cafer Yazıcı
+Alaittin Kırtışoğlu,Alpay Cemre Çam
+Cihan Tay,Övünç Balcı
+Mert Bağcık,Mert Aydoğdu
+Berkant Aras,Çağatay Tavşanoğlu
+Ercan Artukoğlu,Fatih Kalayoğlu
+Arif Aydın,Dogac Kose
+Remzi Öz,Gonca Kucukakin
+Ferhat Barış,Merve Gürcan
+Seçil Yeşilırmak,Ege Köse
+Maç 19
+Gonca Kucukakin,Ecem Layra Görk
+Leyla Kaşıkci,Salih Özkan Dursun
+Doğukan Bora Alay,Çılga İşcan
+Alper Sulak,Cafer Yazıcı
+Etkin Özgan,Alpay Cemre Çam
+Alaittin Kırtışoğlu,Övünç Balcı
+Cihan Tay,Mert Aydoğdu
+Mert Bağcık,Çağatay Tavşanoğlu
+Berkant Aras,Fatih Kalayoğlu
+Ercan Artukoğlu,Dogac Kose
+Remzi Öz,Merve Gürcan
+Ferhat Barış,Ege Köse
+Arif Aydın,Seçil Yeşilırmak
+Maç 20
+Merve Gürcan,Ecem Layra Görk
+Gonca Kucukakin,Salih Özkan Dursun
+Leyla Kaşıkci,Çılga İşcan
+Doğukan Bora Alay,Cafer Yazıcı
+Alper Sulak,Alpay Cemre Çam
+Etkin Özgan,Övünç Balcı
+Alaittin Kırtışoğlu,Mert Aydoğdu
+Cihan Tay,Çağatay Tavşanoğlu
+Mert Bağcık,Fatih Kalayoğlu
+Berkant Aras,Dogac Kose
+Arif Aydın,Ercan Artukoğlu
+Remzi Öz,Ege Köse
+Ferhat Barış,Seçil Yeşilırmak
+Maç 21
+Ege Köse,Ecem Layra Görk
+Merve Gürcan,Salih Özkan Dursun
+Gonca Kucukakin,Çılga İşcan
+Leyla Kaşıkci,Cafer Yazıcı
+Doğukan Bora Alay,Alpay Cemre Çam
+Alper Sulak,Övünç Balcı
+Etkin Özgan,Mert Aydoğdu
+Alaittin Kırtışoğlu,Çağatay Tavşanoğlu
+Cihan Tay,Fatih Kalayoğlu
+Mert Bağcık,Dogac Kose
+Berkant Aras,Ercan Artukoğlu
+Remzi Öz,Seçil Yeşilırmak
+Arif Aydın,Ferhat Barış
+Maç 22
+Seçil Yeşilırmak,Ecem Layra Görk
+Ege Köse,Salih Özkan Dursun
+Merve Gürcan,Çılga İşcan
+Gonca Kucukakin,Cafer Yazıcı
+Leyla Kaşıkci,Alpay Cemre Çam
+Doğukan Bora Alay,Övünç Balcı
+Alper Sulak,Mert Aydoğdu
+Etkin Özgan,Çağatay Tavşanoğlu
+Alaittin Kırtışoğlu,Fatih Kalayoğlu
+Cihan Tay,Dogac Kose
+Mert Bağcık,Ercan Artukoğlu
+Arif Aydın,Berkant Aras
+Remzi Öz,Ferhat Barış
+Maç 23
+Ferhat Barış,Ecem Layra Görk
+Seçil Yeşilırmak,Salih Özkan Dursun
+Ege Köse,Çılga İşcan
+Merve Gürcan,Cafer Yazıcı
+Gonca Kucukakin,Alpay Cemre Çam
+Leyla Kaşıkci,Övünç Balcı
+Doğukan Bora Alay,Mert Aydoğdu
+Alper Sulak,Çağatay Tavşanoğlu
+Etkin Özgan,Fatih Kalayoğlu
+Alaittin Kırtışoğlu,Dogac Kose
+Cihan Tay,Ercan Artukoğlu
+Mert Bağcık,Berkant Aras
+Arif Aydın,Remzi Öz
+Maç 24
+Remzi Öz,Ecem Layra Görk
+Ferhat Barış,Salih Özkan Dursun
+Seçil Yeşilırmak,Çılga İşcan
+Ege Köse,Cafer Yazıcı
+Merve Gürcan,Alpay Cemre Çam
+Gonca Kucukakin,Övünç Balcı
+Leyla Kaşıkci,Mert Aydoğdu
+Doğukan Bora Alay,Çağatay Tavşanoğlu
+Alper Sulak,Fatih Kalayoğlu
+Etkin Özgan,Dogac Kose
+Alaittin Kırtışoğlu,Ercan Artukoğlu
+Cihan Tay,Berkant Aras
+Arif Aydın,Mert Bağcık
+Maç 25
+Arif Aydın,Ecem Layra Görk
+Remzi Öz,Salih Özkan Dursun
+Ferhat Barış,Çılga İşcan
+Seçil Yeşilırmak,Cafer Yazıcı
+Ege Köse,Alpay Cemre Çam
+Merve Gürcan,Övünç Balcı
+Gonca Kucukakin,Mert Aydoğdu
+Leyla Kaşıkci,Çağatay Tavşanoğlu
+Doğukan Bora Alay,Fatih Kalayoğlu
+Alper Sulak,Dogac Kose
+Etkin Özgan,Ercan Artukoğlu
+Alaittin Kırtışoğlu,Berkant Aras
+Cihan Tay,Mert Bağcık

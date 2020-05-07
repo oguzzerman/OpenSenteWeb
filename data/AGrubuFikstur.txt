@@ -1,0 +1,350 @@
+Maç 1
+Hamza Sezer,Fırat Asar
+Ahmet Köksal,Oğuz Zerman
+Selçuk Mola,Ufuk Emre Yıldırım
+Bunyamin Ergen,Yılmaz Çalık
+Gökhan Öztürk,Doğan Can Karataş
+Servet Daşdemir,Alaz Tetik
+Uğur Arıkan,Orhan Can Acar
+Gündaş Alaşahan,Mustafa Kürşat Elitok
+Ahmet Kemal Ökmen,Firat Dulger
+Özlem Ersoy,Oğulkan Bir
+Mustafa Talak,Mete Rıza Nemlioğlu
+Hülya Çolak,Polat Fevzi Dündar
+Cem Mutlugeldi,Ali Kulubecioğlu
+Maç 2
+Oğuz Zerman,Fırat Asar
+Cem Mutlugeldi,Hamza Sezer
+Ahmet Köksal,Ufuk Emre Yıldırım
+Selçuk Mola,Yılmaz Çalık
+Bunyamin Ergen,Doğan Can Karataş
+Gökhan Öztürk,Alaz Tetik
+Servet Daşdemir,Orhan Can Acar
+Uğur Arıkan,Mustafa Kürşat Elitok
+Gündaş Alaşahan,Firat Dulger
+Ahmet Kemal Ökmen,Oğulkan Bir
+Özlem Ersoy,Mete Rıza Nemlioğlu
+Mustafa Talak,Polat Fevzi Dündar
+Hülya Çolak,Ali Kulubecioğlu
+Maç 3
+Ufuk Emre Yıldırım,Fırat Asar
+Oğuz Zerman,Hamza Sezer
+Ahmet Köksal,Yılmaz Çalık
+Selçuk Mola,Doğan Can Karataş
+Bunyamin Ergen,Alaz Tetik
+Gökhan Öztürk,Orhan Can Acar
+Servet Daşdemir,Mustafa Kürşat Elitok
+Uğur Arıkan,Firat Dulger
+Gündaş Alaşahan,Oğulkan Bir
+Ahmet Kemal Ökmen,Mete Rıza Nemlioğlu
+Özlem Ersoy,Polat Fevzi Dündar
+Mustafa Talak,Ali Kulubecioğlu
+Cem Mutlugeldi,Hülya Çolak
+Maç 4
+Yılmaz Çalık,Fırat Asar
+Ufuk Emre Yıldırım,Hamza Sezer
+Cem Mutlugeldi,Oğuz Zerman
+Ahmet Köksal,Doğan Can Karataş
+Selçuk Mola,Alaz Tetik
+Bunyamin Ergen,Orhan Can Acar
+Gökhan Öztürk,Mustafa Kürşat Elitok
+Servet Daşdemir,Firat Dulger
+Uğur Arıkan,Oğulkan Bir
+Gündaş Alaşahan,Mete Rıza Nemlioğlu
+Ahmet Kemal Ökmen,Polat Fevzi Dündar
+Özlem Ersoy,Ali Kulubecioğlu
+Mustafa Talak,Hülya Çolak
+Maç 5
+Doğan Can Karataş,Fırat Asar
+Yılmaz Çalık,Hamza Sezer
+Ufuk Emre Yıldırım,Oğuz Zerman
+Ahmet Köksal,Alaz Tetik
+Selçuk Mola,Orhan Can Acar
+Bunyamin Ergen,Mustafa Kürşat Elitok
+Gökhan Öztürk,Firat Dulger
+Servet Daşdemir,Oğulkan Bir
+Uğur Arıkan,Mete Rıza Nemlioğlu
+Gündaş Alaşahan,Polat Fevzi Dündar
+Ahmet Kemal Ökmen,Ali Kulubecioğlu
+Özlem Ersoy,Hülya Çolak
+Cem Mutlugeldi,Mustafa Talak
+Maç 6
+Alaz Tetik,Fırat Asar
+Doğan Can Karataş,Hamza Sezer
+Yılmaz Çalık,Oğuz Zerman
+Cem Mutlugeldi,Ufuk Emre Yıldırım
+Ahmet Köksal,Orhan Can Acar
+Selçuk Mola,Mustafa Kürşat Elitok
+Bunyamin Ergen,Firat Dulger
+Gökhan Öztürk,Oğulkan Bir
+Servet Daşdemir,Mete Rıza Nemlioğlu
+Uğur Arıkan,Polat Fevzi Dündar
+Gündaş Alaşahan,Ali Kulubecioğlu
+Ahmet Kemal Ökmen,Hülya Çolak
+Özlem Ersoy,Mustafa Talak
+Maç 7
+Orhan Can Acar,Fırat Asar
+Alaz Tetik,Hamza Sezer
+Doğan Can Karataş,Oğuz Zerman
+Yılmaz Çalık,Ufuk Emre Yıldırım
+Ahmet Köksal,Mustafa Kürşat Elitok
+Selçuk Mola,Firat Dulger
+Bunyamin Ergen,Oğulkan Bir
+Gökhan Öztürk,Mete Rıza Nemlioğlu
+Servet Daşdemir,Polat Fevzi Dündar
+Uğur Arıkan,Ali Kulubecioğlu
+Gündaş Alaşahan,Hülya Çolak
+Ahmet Kemal Ökmen,Mustafa Talak
+Cem Mutlugeldi,Özlem Ersoy
+Maç 8
+Mustafa Kürşat Elitok,Fırat Asar
+Orhan Can Acar,Hamza Sezer
+Alaz Tetik,Oğuz Zerman
+Doğan Can Karataş,Ufuk Emre Yıldırım
+Cem Mutlugeldi,Yılmaz Çalık
+Ahmet Köksal,Firat Dulger
+Selçuk Mola,Oğulkan Bir
+Bunyamin Ergen,Mete Rıza Nemlioğlu
+Gökhan Öztürk,Polat Fevzi Dündar
+Servet Daşdemir,Ali Kulubecioğlu
+Uğur Arıkan,Hülya Çolak
+Gündaş Alaşahan,Mustafa Talak
+Ahmet Kemal Ökmen,Özlem Ersoy
+Maç 9
+Firat Dulger,Fırat Asar
+Mustafa Kürşat Elitok,Hamza Sezer
+Orhan Can Acar,Oğuz Zerman
+Alaz Tetik,Ufuk Emre Yıldırım
+Doğan Can Karataş,Yılmaz Çalık
+Ahmet Köksal,Oğulkan Bir
+Selçuk Mola,Mete Rıza Nemlioğlu
+Bunyamin Ergen,Polat Fevzi Dündar
+Gökhan Öztürk,Ali Kulubecioğlu
+Servet Daşdemir,Hülya Çolak
+Uğur Arıkan,Mustafa Talak
+Gündaş Alaşahan,Özlem Ersoy
+Cem Mutlugeldi,Ahmet Kemal Ökmen
+Maç 10
+Oğulkan Bir,Fırat Asar
+Firat Dulger,Hamza Sezer
+Mustafa Kürşat Elitok,Oğuz Zerman
+Orhan Can Acar,Ufuk Emre Yıldırım
+Alaz Tetik,Yılmaz Çalık
+Cem Mutlugeldi,Doğan Can Karataş
+Ahmet Köksal,Mete Rıza Nemlioğlu
+Selçuk Mola,Polat Fevzi Dündar
+Bunyamin Ergen,Ali Kulubecioğlu
+Gökhan Öztürk,Hülya Çolak
+Servet Daşdemir,Mustafa Talak
+Uğur Arıkan,Özlem Ersoy
+Gündaş Alaşahan,Ahmet Kemal Ökmen
+Maç 11
+Mete Rıza Nemlioğlu,Fırat Asar
+Oğulkan Bir,Hamza Sezer
+Firat Dulger,Oğuz Zerman
+Mustafa Kürşat Elitok,Ufuk Emre Yıldırım
+Orhan Can Acar,Yılmaz Çalık
+Alaz Tetik,Doğan Can Karataş
+Ahmet Köksal,Polat Fevzi Dündar
+Selçuk Mola,Ali Kulubecioğlu
+Bunyamin Ergen,Hülya Çolak
+Gökhan Öztürk,Mustafa Talak
+Servet Daşdemir,Özlem Ersoy
+Uğur Arıkan,Ahmet Kemal Ökmen
+Cem Mutlugeldi,Gündaş Alaşahan
+Maç 12
+Polat Fevzi Dündar,Fırat Asar
+Mete Rıza Nemlioğlu,Hamza Sezer
+Oğulkan Bir,Oğuz Zerman
+Firat Dulger,Ufuk Emre Yıldırım
+Mustafa Kürşat Elitok,Yılmaz Çalık
+Orhan Can Acar,Doğan Can Karataş
+Cem Mutlugeldi,Alaz Tetik
+Ahmet Köksal,Ali Kulubecioğlu
+Selçuk Mola,Hülya Çolak
+Bunyamin Ergen,Mustafa Talak
+Gökhan Öztürk,Özlem Ersoy
+Servet Daşdemir,Ahmet Kemal Ökmen
+Uğur Arıkan,Gündaş Alaşahan
+Maç 13
+Ali Kulubecioğlu,Fırat Asar
+Polat Fevzi Dündar,Hamza Sezer
+Mete Rıza Nemlioğlu,Oğuz Zerman
+Oğulkan Bir,Ufuk Emre Yıldırım
+Firat Dulger,Yılmaz Çalık
+Mustafa Kürşat Elitok,Doğan Can Karataş
+Orhan Can Acar,Alaz Tetik
+Ahmet Köksal,Hülya Çolak
+Selçuk Mola,Mustafa Talak
+Bunyamin Ergen,Özlem Ersoy
+Gökhan Öztürk,Ahmet Kemal Ökmen
+Servet Daşdemir,Gündaş Alaşahan
+Cem Mutlugeldi,Uğur Arıkan
+Maç 14
+Hülya Çolak,Fırat Asar
+Ali Kulubecioğlu,Hamza Sezer
+Polat Fevzi Dündar,Oğuz Zerman
+Mete Rıza Nemlioğlu,Ufuk Emre Yıldırım
+Oğulkan Bir,Yılmaz Çalık
+Firat Dulger,Doğan Can Karataş
+Mustafa Kürşat Elitok,Alaz Tetik
+Cem Mutlugeldi,Orhan Can Acar
+Ahmet Köksal,Mustafa Talak
+Selçuk Mola,Özlem Ersoy
+Bunyamin Ergen,Ahmet Kemal Ökmen
+Gökhan Öztürk,Gündaş Alaşahan
+Servet Daşdemir,Uğur Arıkan
+Maç 15
+Mustafa Talak,Fırat Asar
+Hülya Çolak,Hamza Sezer
+Ali Kulubecioğlu,Oğuz Zerman
+Polat Fevzi Dündar,Ufuk Emre Yıldırım
+Mete Rıza Nemlioğlu,Yılmaz Çalık
+Oğulkan Bir,Doğan Can Karataş
+Firat Dulger,Alaz Tetik
+Mustafa Kürşat Elitok,Orhan Can Acar
+Ahmet Köksal,Özlem Ersoy
+Selçuk Mola,Ahmet Kemal Ökmen
+Bunyamin Ergen,Gündaş Alaşahan
+Gökhan Öztürk,Uğur Arıkan
+Cem Mutlugeldi,Servet Daşdemir
+Maç 16
+Özlem Ersoy,Fırat Asar
+Mustafa Talak,Hamza Sezer
+Hülya Çolak,Oğuz Zerman
+Ali Kulubecioğlu,Ufuk Emre Yıldırım
+Polat Fevzi Dündar,Yılmaz Çalık
+Mete Rıza Nemlioğlu,Doğan Can Karataş
+Oğulkan Bir,Alaz Tetik
+Firat Dulger,Orhan Can Acar
+Cem Mutlugeldi,Mustafa Kürşat Elitok
+Ahmet Köksal,Ahmet Kemal Ökmen
+Selçuk Mola,Gündaş Alaşahan
+Bunyamin Ergen,Uğur Arıkan
+Gökhan Öztürk,Servet Daşdemir
+Maç 17
+Ahmet Kemal Ökmen,Fırat Asar
+Özlem Ersoy,Hamza Sezer
+Mustafa Talak,Oğuz Zerman
+Hülya Çolak,Ufuk Emre Yıldırım
+Ali Kulubecioğlu,Yılmaz Çalık
+Polat Fevzi Dündar,Doğan Can Karataş
+Mete Rıza Nemlioğlu,Alaz Tetik
+Oğulkan Bir,Orhan Can Acar
+Firat Dulger,Mustafa Kürşat Elitok
+Ahmet Köksal,Gündaş Alaşahan
+Selçuk Mola,Uğur Arıkan
+Bunyamin Ergen,Servet Daşdemir
+Cem Mutlugeldi,Gökhan Öztürk
+Maç 18
+Gündaş Alaşahan,Fırat Asar
+Ahmet Kemal Ökmen,Hamza Sezer
+Özlem Ersoy,Oğuz Zerman
+Mustafa Talak,Ufuk Emre Yıldırım
+Hülya Çolak,Yılmaz Çalık
+Ali Kulubecioğlu,Doğan Can Karataş
+Polat Fevzi Dündar,Alaz Tetik
+Mete Rıza Nemlioğlu,Orhan Can Acar
+Oğulkan Bir,Mustafa Kürşat Elitok
+Cem Mutlugeldi,Firat Dulger
+Ahmet Köksal,Uğur Arıkan
+Selçuk Mola,Servet Daşdemir
+Bunyamin Ergen,Gökhan Öztürk
+Maç 19
+Uğur Arıkan,Fırat Asar
+Gündaş Alaşahan,Hamza Sezer
+Ahmet Kemal Ökmen,Oğuz Zerman
+Özlem Ersoy,Ufuk Emre Yıldırım
+Mustafa Talak,Yılmaz Çalık
+Hülya Çolak,Doğan Can Karataş
+Ali Kulubecioğlu,Alaz Tetik
+Polat Fevzi Dündar,Orhan Can Acar
+Mete Rıza Nemlioğlu,Mustafa Kürşat Elitok
+Oğulkan Bir,Firat Dulger
+Ahmet Köksal,Servet Daşdemir
+Selçuk Mola,Gökhan Öztürk
+Cem Mutlugeldi,Bunyamin Ergen
+Maç 20
+Servet Daşdemir,Fırat Asar
+Uğur Arıkan,Hamza Sezer
+Gündaş Alaşahan,Oğuz Zerman
+Ahmet Kemal Ökmen,Ufuk Emre Yıldırım
+Özlem Ersoy,Yılmaz Çalık
+Mustafa Talak,Doğan Can Karataş
+Hülya Çolak,Alaz Tetik
+Ali Kulubecioğlu,Orhan Can Acar
+Polat Fevzi Dündar,Mustafa Kürşat Elitok
+Mete Rıza Nemlioğlu,Firat Dulger
+Cem Mutlugeldi,Oğulkan Bir
+Ahmet Köksal,Gökhan Öztürk
+Selçuk Mola,Bunyamin Ergen
+Maç 21
+Gökhan Öztürk,Fırat Asar
+Servet Daşdemir,Hamza Sezer
+Uğur Arıkan,Oğuz Zerman
+Gündaş Alaşahan,Ufuk Emre Yıldırım
+Ahmet Kemal Ökmen,Yılmaz Çalık
+Özlem Ersoy,Doğan Can Karataş
+Mustafa Talak,Alaz Tetik
+Hülya Çolak,Orhan Can Acar
+Ali Kulubecioğlu,Mustafa Kürşat Elitok
+Polat Fevzi Dündar,Firat Dulger
+Mete Rıza Nemlioğlu,Oğulkan Bir
+Ahmet Köksal,Bunyamin Ergen
+Cem Mutlugeldi,Selçuk Mola
+Maç 22
+Bunyamin Ergen,Fırat Asar
+Gökhan Öztürk,Hamza Sezer
+Servet Daşdemir,Oğuz Zerman
+Uğur Arıkan,Ufuk Emre Yıldırım
+Gündaş Alaşahan,Yılmaz Çalık
+Ahmet Kemal Ökmen,Doğan Can Karataş
+Özlem Ersoy,Alaz Tetik
+Mustafa Talak,Orhan Can Acar
+Hülya Çolak,Mustafa Kürşat Elitok
+Ali Kulubecioğlu,Firat Dulger
+Polat Fevzi Dündar,Oğulkan Bir
+Cem Mutlugeldi,Mete Rıza Nemlioğlu
+Ahmet Köksal,Selçuk Mola
+Maç 23
+Selçuk Mola,Fırat Asar
+Bunyamin Ergen,Hamza Sezer
+Gökhan Öztürk,Oğuz Zerman
+Servet Daşdemir,Ufuk Emre Yıldırım
+Uğur Arıkan,Yılmaz Çalık
+Gündaş Alaşahan,Doğan Can Karataş
+Ahmet Kemal Ökmen,Alaz Tetik
+Özlem Ersoy,Orhan Can Acar
+Mustafa Talak,Mustafa Kürşat Elitok
+Hülya Çolak,Firat Dulger
+Ali Kulubecioğlu,Oğulkan Bir
+Polat Fevzi Dündar,Mete Rıza Nemlioğlu
+Cem Mutlugeldi,Ahmet Köksal
+Maç 24
+Ahmet Köksal,Fırat Asar
+Selçuk Mola,Hamza Sezer
+Bunyamin Ergen,Oğuz Zerman
+Gökhan Öztürk,Ufuk Emre Yıldırım
+Servet Daşdemir,Yılmaz Çalık
+Uğur Arıkan,Doğan Can Karataş
+Gündaş Alaşahan,Alaz Tetik
+Ahmet Kemal Ökmen,Orhan Can Acar
+Özlem Ersoy,Mustafa Kürşat Elitok
+Mustafa Talak,Firat Dulger
+Hülya Çolak,Oğulkan Bir
+Ali Kulubecioğlu,Mete Rıza Nemlioğlu
+Cem Mutlugeldi,Polat Fevzi Dündar
+Maç 25
+Cem Mutlugeldi,Fırat Asar
+Ahmet Köksal,Hamza Sezer
+Selçuk Mola,Oğuz Zerman
+Bunyamin Ergen,Ufuk Emre Yıldırım
+Gökhan Öztürk,Yılmaz Çalık
+Servet Daşdemir,Doğan Can Karataş
+Uğur Arıkan,Alaz Tetik
+Gündaş Alaşahan,Orhan Can Acar
+Ahmet Kemal Ökmen,Mustafa Kürşat Elitok
+Özlem Ersoy,Firat Dulger
+Mustafa Talak,Oğulkan Bir
+Hülya Çolak,Mete Rıza Nemlioğlu
+Ali Kulubecioğlu,Polat Fevzi Dündar

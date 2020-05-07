@@ -1,0 +1,252 @@
+Maç 1
+Mert Bağcık,Merve Gürcan
+Orhan Can Acar,Özlem Ersoy
+Mustafa Talak,Ali Yunus Emre Özköse
+Ertuğ Akkol,Hasan Hüseyin Çiçek
+Yetkin Eser,Ahmet Kemal Ökmen
+Etkin Özgan,Remzi öz
+Oğulkan Bir,Çağatay Tavşanoğlu
+Firat Dulger,Doğukan Bora Alay
+Nevriye Çerçioğlu,Ogün Gökpınar
+Elif Sarı,Ali Kulubecioğlu
+Cihan Mert Deveden,Okan Kaynak
+Maç 2
+Özlem Ersoy,Merve Gürcan
+Cihan Mert Deveden,Mert Bağcık
+Orhan Can Acar,Ali Yunus Emre Özköse
+Mustafa Talak,Hasan Hüseyin Çiçek
+Ertuğ Akkol,Ahmet Kemal Ökmen
+Yetkin Eser,Remzi öz
+Etkin Özgan,Çağatay Tavşanoğlu
+Oğulkan Bir,Doğukan Bora Alay
+Firat Dulger,Ogün Gökpınar
+Nevriye Çerçioğlu,Ali Kulubecioğlu
+Elif Sarı,Okan Kaynak
+Maç 3
+Ali Yunus Emre Özköse,Merve Gürcan
+Özlem Ersoy,Mert Bağcık
+Orhan Can Acar,Hasan Hüseyin Çiçek
+Mustafa Talak,Ahmet Kemal Ökmen
+Ertuğ Akkol,Remzi öz
+Yetkin Eser,Çağatay Tavşanoğlu
+Etkin Özgan,Doğukan Bora Alay
+Oğulkan Bir,Ogün Gökpınar
+Firat Dulger,Ali Kulubecioğlu
+Nevriye Çerçioğlu,Okan Kaynak
+Cihan Mert Deveden,Elif Sarı
+Maç 4
+Hasan Hüseyin Çiçek,Merve Gürcan
+Ali Yunus Emre Özköse,Mert Bağcık
+Cihan Mert Deveden,Özlem Ersoy
+Orhan Can Acar,Ahmet Kemal Ökmen
+Mustafa Talak,Remzi öz
+Ertuğ Akkol,Çağatay Tavşanoğlu
+Yetkin Eser,Doğukan Bora Alay
+Etkin Özgan,Ogün Gökpınar
+Oğulkan Bir,Ali Kulubecioğlu
+Firat Dulger,Okan Kaynak
+Nevriye Çerçioğlu,Elif Sarı
+Maç 5
+Ahmet Kemal Ökmen,Merve Gürcan
+Hasan Hüseyin Çiçek,Mert Bağcık
+Ali Yunus Emre Özköse,Özlem Ersoy
+Orhan Can Acar,Remzi öz
+Mustafa Talak,Çağatay Tavşanoğlu
+Ertuğ Akkol,Doğukan Bora Alay
+Yetkin Eser,Ogün Gökpınar
+Etkin Özgan,Ali Kulubecioğlu
+Oğulkan Bir,Okan Kaynak
+Firat Dulger,Elif Sarı
+Cihan Mert Deveden,Nevriye Çerçioğlu
+Maç 6
+Remzi öz,Merve Gürcan
+Ahmet Kemal Ökmen,Mert Bağcık
+Hasan Hüseyin Çiçek,Özlem Ersoy
+Cihan Mert Deveden,Ali Yunus Emre Özköse
+Orhan Can Acar,Çağatay Tavşanoğlu
+Mustafa Talak,Doğukan Bora Alay
+Ertuğ Akkol,Ogün Gökpınar
+Yetkin Eser,Ali Kulubecioğlu
+Etkin Özgan,Okan Kaynak
+Oğulkan Bir,Elif Sarı
+Firat Dulger,Nevriye Çerçioğlu
+Maç 7
+Çağatay Tavşanoğlu,Merve Gürcan
+Remzi öz,Mert Bağcık
+Ahmet Kemal Ökmen,Özlem Ersoy
+Hasan Hüseyin Çiçek,Ali Yunus Emre Özköse
+Orhan Can Acar,Doğukan Bora Alay
+Mustafa Talak,Ogün Gökpınar
+Ertuğ Akkol,Ali Kulubecioğlu
+Yetkin Eser,Okan Kaynak
+Etkin Özgan,Elif Sarı
+Oğulkan Bir,Nevriye Çerçioğlu
+Cihan Mert Deveden,Firat Dulger
+Maç 8
+Doğukan Bora Alay,Merve Gürcan
+Çağatay Tavşanoğlu,Mert Bağcık
+Remzi öz,Özlem Ersoy
+Ahmet Kemal Ökmen,Ali Yunus Emre Özköse
+Cihan Mert Deveden,Hasan Hüseyin Çiçek
+Orhan Can Acar,Ogün Gökpınar
+Mustafa Talak,Ali Kulubecioğlu
+Ertuğ Akkol,Okan Kaynak
+Yetkin Eser,Elif Sarı
+Etkin Özgan,Nevriye Çerçioğlu
+Oğulkan Bir,Firat Dulger
+Maç 9
+Ogün Gökpınar,Merve Gürcan
+Doğukan Bora Alay,Mert Bağcık
+Çağatay Tavşanoğlu,Özlem Ersoy
+Remzi öz,Ali Yunus Emre Özköse
+Ahmet Kemal Ökmen,Hasan Hüseyin Çiçek
+Orhan Can Acar,Ali Kulubecioğlu
+Mustafa Talak,Okan Kaynak
+Ertuğ Akkol,Elif Sarı
+Yetkin Eser,Nevriye Çerçioğlu
+Etkin Özgan,Firat Dulger
+Cihan Mert Deveden,Oğulkan Bir
+Maç 10
+Ali Kulubecioğlu,Merve Gürcan
+Ogün Gökpınar,Mert Bağcık
+Doğukan Bora Alay,Özlem Ersoy
+Çağatay Tavşanoğlu,Ali Yunus Emre Özköse
+Remzi öz,Hasan Hüseyin Çiçek
+Cihan Mert Deveden,Ahmet Kemal Ökmen
+Orhan Can Acar,Okan Kaynak
+Mustafa Talak,Elif Sarı
+Ertuğ Akkol,Nevriye Çerçioğlu
+Yetkin Eser,Firat Dulger
+Etkin Özgan,Oğulkan Bir
+Maç 11
+Okan Kaynak,Merve Gürcan
+Ali Kulubecioğlu,Mert Bağcık
+Ogün Gökpınar,Özlem Ersoy
+Doğukan Bora Alay,Ali Yunus Emre Özköse
+Çağatay Tavşanoğlu,Hasan Hüseyin Çiçek
+Remzi öz,Ahmet Kemal Ökmen
+Orhan Can Acar,Elif Sarı
+Mustafa Talak,Nevriye Çerçioğlu
+Ertuğ Akkol,Firat Dulger
+Yetkin Eser,Oğulkan Bir
+Cihan Mert Deveden,Etkin Özgan
+Maç 12
+Elif Sarı,Merve Gürcan
+Okan Kaynak,Mert Bağcık
+Ali Kulubecioğlu,Özlem Ersoy
+Ogün Gökpınar,Ali Yunus Emre Özköse
+Doğukan Bora Alay,Hasan Hüseyin Çiçek
+Çağatay Tavşanoğlu,Ahmet Kemal Ökmen
+Cihan Mert Deveden,Remzi öz
+Orhan Can Acar,Nevriye Çerçioğlu
+Mustafa Talak,Firat Dulger
+Ertuğ Akkol,Oğulkan Bir
+Yetkin Eser,Etkin Özgan
+Maç 13
+Nevriye Çerçioğlu,Merve Gürcan
+Elif Sarı,Mert Bağcık
+Okan Kaynak,Özlem Ersoy
+Ali Kulubecioğlu,Ali Yunus Emre Özköse
+Ogün Gökpınar,Hasan Hüseyin Çiçek
+Doğukan Bora Alay,Ahmet Kemal Ökmen
+Çağatay Tavşanoğlu,Remzi öz
+Orhan Can Acar,Firat Dulger
+Mustafa Talak,Oğulkan Bir
+Ertuğ Akkol,Etkin Özgan
+Cihan Mert Deveden,Yetkin Eser
+Maç 14
+Firat Dulger,Merve Gürcan
+Nevriye Çerçioğlu,Mert Bağcık
+Elif Sarı,Özlem Ersoy
+Okan Kaynak,Ali Yunus Emre Özköse
+Ali Kulubecioğlu,Hasan Hüseyin Çiçek
+Ogün Gökpınar,Ahmet Kemal Ökmen
+Doğukan Bora Alay,Remzi öz
+Cihan Mert Deveden,Çağatay Tavşanoğlu
+Orhan Can Acar,Oğulkan Bir
+Mustafa Talak,Etkin Özgan
+Ertuğ Akkol,Yetkin Eser
+Maç 15
+Oğulkan Bir,Merve Gürcan
+Firat Dulger,Mert Bağcık
+Nevriye Çerçioğlu,Özlem Ersoy
+Elif Sarı,Ali Yunus Emre Özköse
+Okan Kaynak,Hasan Hüseyin Çiçek
+Ali Kulubecioğlu,Ahmet Kemal Ökmen
+Ogün Gökpınar,Remzi öz
+Doğukan Bora Alay,Çağatay Tavşanoğlu
+Orhan Can Acar,Etkin Özgan
+Mustafa Talak,Yetkin Eser
+Cihan Mert Deveden,Ertuğ Akkol
+Maç 16
+Etkin Özgan,Merve Gürcan
+Oğulkan Bir,Mert Bağcık
+Firat Dulger,Özlem Ersoy
+Nevriye Çerçioğlu,Ali Yunus Emre Özköse
+Elif Sarı,Hasan Hüseyin Çiçek
+Okan Kaynak,Ahmet Kemal Ökmen
+Ali Kulubecioğlu,Remzi öz
+Ogün Gökpınar,Çağatay Tavşanoğlu
+Cihan Mert Deveden,Doğukan Bora Alay
+Orhan Can Acar,Yetkin Eser
+Mustafa Talak,Ertuğ Akkol
+Maç 17
+Yetkin Eser,Merve Gürcan
+Etkin Özgan,Mert Bağcık
+Oğulkan Bir,Özlem Ersoy
+Firat Dulger,Ali Yunus Emre Özköse
+Nevriye Çerçioğlu,Hasan Hüseyin Çiçek
+Elif Sarı,Ahmet Kemal Ökmen
+Okan Kaynak,Remzi öz
+Ali Kulubecioğlu,Çağatay Tavşanoğlu
+Ogün Gökpınar,Doğukan Bora Alay
+Orhan Can Acar,Ertuğ Akkol
+Cihan Mert Deveden,Mustafa Talak
+Maç 18
+Ertuğ Akkol,Merve Gürcan
+Yetkin Eser,Mert Bağcık
+Etkin Özgan,Özlem Ersoy
+Oğulkan Bir,Ali Yunus Emre Özköse
+Firat Dulger,Hasan Hüseyin Çiçek
+Nevriye Çerçioğlu,Ahmet Kemal Ökmen
+Elif Sarı,Remzi öz
+Okan Kaynak,Çağatay Tavşanoğlu
+Ali Kulubecioğlu,Doğukan Bora Alay
+Cihan Mert Deveden,Ogün Gökpınar
+Orhan Can Acar,Mustafa Talak
+Maç 19
+Mustafa Talak,Merve Gürcan
+Ertuğ Akkol,Mert Bağcık
+Yetkin Eser,Özlem Ersoy
+Etkin Özgan,Ali Yunus Emre Özköse
+Oğulkan Bir,Hasan Hüseyin Çiçek
+Firat Dulger,Ahmet Kemal Ökmen
+Nevriye Çerçioğlu,Remzi öz
+Elif Sarı,Çağatay Tavşanoğlu
+Okan Kaynak,Doğukan Bora Alay
+Ali Kulubecioğlu,Ogün Gökpınar
+Cihan Mert Deveden,Orhan Can Acar
+Maç 20
+Orhan Can Acar,Merve Gürcan
+Mustafa Talak,Mert Bağcık
+Ertuğ Akkol,Özlem Ersoy
+Yetkin Eser,Ali Yunus Emre Özköse
+Etkin Özgan,Hasan Hüseyin Çiçek
+Oğulkan Bir,Ahmet Kemal Ökmen
+Firat Dulger,Remzi öz
+Nevriye Çerçioğlu,Çağatay Tavşanoğlu
+Elif Sarı,Doğukan Bora Alay
+Okan Kaynak,Ogün Gökpınar
+Cihan Mert Deveden,Ali Kulubecioğlu
+Maç 21
+Cihan Mert Deveden,Merve Gürcan
+Orhan Can Acar,Mert Bağcık
+Mustafa Talak,Özlem Ersoy
+Ertuğ Akkol,Ali Yunus Emre Özköse
+Yetkin Eser,Hasan Hüseyin Çiçek
+Etkin Özgan,Ahmet Kemal Ökmen
+Oğulkan Bir,Remzi öz
+Firat Dulger,Çağatay Tavşanoğlu
+Nevriye Çerçioğlu,Doğukan Bora Alay
+Elif Sarı,Ogün Gökpınar
+Okan Kaynak,Ali Kulubecioğlu
